@@ -8,4 +8,4 @@ The goal is to create quiver plots from data at all three sites (Gutter, Shark A
 - Green Point is split to 4 
 
 For now, the Vector data (Gutter & Shark Alley) - are in one notebook (07_Vec_Feather_All-Tristan.ipynb) 
-and the ADCP is in another notebook ( ) 
+and the ADCP is in another notebook (ADCP_feather_plots.ipynb) 
